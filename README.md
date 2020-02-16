@@ -1,5 +1,10 @@
 # Machine learning on ATP and WTA Tennis Matches with Betting odds Data
 
+
+###### Dataset can be found on Kaggle on : https://www.kaggle.com/hakeem/atp-and-wta-tennis-data
+
+###### Work done on the data wich is EDA, Data prepartion, modeling, predictions then Betting based on diferents stategies on ATP data can too be found on Kaggle on : https://www.kaggle.com/hakeem/eda-data-prep-modeling-predictions-then-betting
+
 ### Context
 
 ATP and WTA matches results and betting odds from year 2000 untill 2019.
